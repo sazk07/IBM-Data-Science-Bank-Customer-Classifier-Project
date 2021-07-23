@@ -1,3 +1,3 @@
-# my_IBM_machine_learning_project
+# Project for Bank Customer Classification
 
-Description: coming soon (when I have the time)
+Data Science ML Project I did on Bank customers classifying them using various popular techniques, as part of an online MOOC by IBM.
